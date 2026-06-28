@@ -1,0 +1,37 @@
+name: Update Fear & Greed Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 * * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest snapshot
+        run: python scripts/fetch_fear_greed.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fear_greed_latest.json data/fear_greed_history.json
+          git diff --cached --quiet || git commit -m "Update fear & greed snapshot"
+          git push
