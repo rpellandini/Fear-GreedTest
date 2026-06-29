@@ -32,6 +32,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/fear_greed_latest.json data/fear_greed_history.json
+          git pull --rebase origin main
+          git add data/fear_greed_latest.json \
+                  data/fear_greed_history.json \
+                  data/fear_greed_market_history.json \
+                  data/fear_greed_weekly.json \
+                  data/fear_greed_fortnightly.json
           git diff --cached --quiet || git commit -m "Update fear & greed snapshot"
           git push
