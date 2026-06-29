@@ -1,20 +1,20 @@
 {
   "score": 24.7714285714286,
   "rating": "extreme fear",
-  "timestamp_utc": "2026-06-29T12:57:08.829582+00:00",
+  "timestamp_utc": "2026-06-29T13:24:12.713943+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 24.7714285714286,
       "rating": "extreme fear",
-      "timestamp": "2026-06-29T12:39:16+00:00",
+      "timestamp": "2026-06-29T13:04:16+00:00",
       "previous_close": 24.7714285714286,
       "previous_1_week": 31.9699633699634,
       "previous_1_month": 59.5142857142857,
       "previous_1_year": 64.8
     },
     "fear_and_greed_historical": {
-      "timestamp": 1782736756000.0,
+      "timestamp": 1782738256000.0,
       "score": 24.7714285714286,
       "rating": "extreme fear",
       "data": [
@@ -1274,7 +1274,7 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1782736756000.0,
+          "x": 1782738256000.0,
           "y": 24.7714285714286,
           "rating": "extreme fear"
         }
@@ -7576,7 +7576,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1782736756000.0,
+      "timestamp": 1782738256000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8827,18 +8827,18 @@
         },
         {
           "x": 1782691200000.0,
-          "y": 18.31,
+          "y": 18.22,
           "rating": "extreme fear"
         },
         {
-          "x": 1782736756000.0,
-          "y": 18.31,
+          "x": 1782738256000.0,
+          "y": 18.22,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1782736756000.0,
+      "timestamp": 1782738256000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10089,12 +10089,12 @@
         },
         {
           "x": 1782691200000.0,
-          "y": 17.8222,
+          "y": 17.8204,
           "rating": "extreme fear"
         },
         {
-          "x": 1782736756000.0,
-          "y": 17.8222,
+          "x": 1782738256000.0,
+          "y": 17.8204,
           "rating": "extreme fear"
         }
       ]
