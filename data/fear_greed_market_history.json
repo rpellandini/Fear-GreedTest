@@ -1496,19 +1496,19 @@
   {
     "date_utc": "2026-07-02",
     "timestamp_utc": "2026-07-02T00:00:00+00:00",
-    "score": 34.057143,
+    "score": 37.485714,
     "rating": "fear"
   },
   {
     "date_utc": "2026-07-03",
     "timestamp_utc": "2026-07-03T00:00:00+00:00",
-    "score": 34.057143,
+    "score": 32.4,
     "rating": "fear"
   },
   {
     "date_utc": "2026-07-06",
-    "timestamp_utc": "2026-07-06T12:41:01+00:00",
-    "score": 34.057143,
-    "rating": "fear"
+    "timestamp_utc": "2026-07-06T16:24:18+00:00",
+    "score": 45.285714,
+    "rating": "neutral"
   }
 ]
