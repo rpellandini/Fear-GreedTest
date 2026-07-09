@@ -1508,13 +1508,13 @@
   {
     "date_utc": "2026-07-08",
     "timestamp_utc": "2026-07-08T00:00:00+00:00",
-    "score": 41.542857,
+    "score": 44.114286,
     "rating": "fear"
   },
   {
     "date_utc": "2026-07-09",
-    "timestamp_utc": "2026-07-09T11:57:46+00:00",
-    "score": 41.542857,
-    "rating": "fear"
+    "timestamp_utc": "2026-07-09T16:07:07+00:00",
+    "score": 47.228571,
+    "rating": "neutral"
   }
 ]
