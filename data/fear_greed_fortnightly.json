@@ -176,9 +176,16 @@
   },
   {
     "date_utc": "2026-07-10",
-    "timestamp_utc": "2026-07-10T23:59:47+00:00",
+    "timestamp_utc": "2026-07-10T00:00:00+00:00",
     "score": 49.485714,
     "rating": "neutral",
     "fortnight": "2026-F14"
+  },
+  {
+    "date_utc": "2026-07-13",
+    "timestamp_utc": "2026-07-13T07:16:31+00:00",
+    "score": 49.485714,
+    "rating": "neutral",
+    "fortnight": "2026-F15"
   }
 ]
