@@ -1502,13 +1502,13 @@
   {
     "date_utc": "2026-07-10",
     "timestamp_utc": "2026-07-10T00:00:00+00:00",
-    "score": 49.485714,
+    "score": 48.4,
     "rating": "neutral"
   },
   {
     "date_utc": "2026-07-13",
-    "timestamp_utc": "2026-07-13T11:11:46+00:00",
-    "score": 49.485714,
-    "rating": "neutral"
+    "timestamp_utc": "2026-07-13T15:00:50+00:00",
+    "score": 44.742857,
+    "rating": "fear"
   }
 ]
