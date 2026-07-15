@@ -1,20 +1,20 @@
 {
   "score": 43.7714285714286,
   "rating": "fear",
-  "timestamp_utc": "2026-07-15T09:20:41.732555+00:00",
+  "timestamp_utc": "2026-07-15T11:47:01.981526+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 43.7714285714286,
       "rating": "fear",
-      "timestamp": "2026-07-15T09:00:31+00:00",
+      "timestamp": "2026-07-15T11:30:46+00:00",
       "previous_close": 43.2857142857143,
       "previous_1_week": 44.1142857142857,
       "previous_1_month": 41.6,
       "previous_1_year": 73.4857142857143
     },
     "fear_and_greed_historical": {
-      "timestamp": 1784106031000.0,
+      "timestamp": 1784115046000.0,
       "score": 43.7714285714286,
       "rating": "fear",
       "data": [
@@ -1284,7 +1284,7 @@
           "rating": "fear"
         },
         {
-          "x": 1784106031000.0,
+          "x": 1784115046000.0,
           "y": 43.7714285714286,
           "rating": "fear"
         }
@@ -7621,7 +7621,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1784106031000.0,
+      "timestamp": 1784115046000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8877,18 +8877,18 @@
         },
         {
           "x": 1784073600000.0,
-          "y": 16.22,
+          "y": 16.39,
           "rating": "extreme fear"
         },
         {
-          "x": 1784106031000.0,
-          "y": 16.22,
+          "x": 1784115046000.0,
+          "y": 16.39,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1784106031000.0,
+      "timestamp": 1784115046000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10144,12 +10144,12 @@
         },
         {
           "x": 1784073600000.0,
-          "y": 17.3532,
+          "y": 17.3566,
           "rating": "extreme fear"
         },
         {
-          "x": 1784106031000.0,
-          "y": 17.3532,
+          "x": 1784115046000.0,
+          "y": 17.3566,
           "rating": "extreme fear"
         }
       ]
