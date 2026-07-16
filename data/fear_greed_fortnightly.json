@@ -156,36 +156,36 @@
   {
     "date_utc": "2026-05-29",
     "timestamp_utc": "2026-05-29T00:00:00+00:00",
-    "score": 59.514286,
+    "score": 60.457143,
     "rating": "greed",
     "fortnight": "2026-F11"
   },
   {
     "date_utc": "2026-06-12",
     "timestamp_utc": "2026-06-12T00:00:00+00:00",
-    "score": 35.514286,
+    "score": 33.514286,
     "rating": "fear",
     "fortnight": "2026-F12"
   },
   {
     "date_utc": "2026-06-26",
     "timestamp_utc": "2026-06-26T00:00:00+00:00",
-    "score": 25.114286,
-    "rating": "fear",
+    "score": 24.657143,
+    "rating": "extreme fear",
     "fortnight": "2026-F13"
   },
   {
     "date_utc": "2026-07-10",
     "timestamp_utc": "2026-07-10T00:00:00+00:00",
-    "score": 48.4,
+    "score": 46.828571,
     "rating": "neutral",
     "fortnight": "2026-F14"
   },
   {
     "date_utc": "2026-07-16",
-    "timestamp_utc": "2026-07-16T16:23:26+00:00",
-    "score": 46.628571,
-    "rating": "neutral",
+    "timestamp_utc": "2026-07-16T18:11:57+00:00",
+    "score": 42.057143,
+    "rating": "fear",
     "fortnight": "2026-F15"
   }
 ]
