@@ -1,20 +1,20 @@
 {
   "score": 42.5714285714286,
   "rating": "fear",
-  "timestamp_utc": "2026-07-17T09:20:31.872779+00:00",
+  "timestamp_utc": "2026-07-17T11:39:44.389522+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 42.5714285714286,
       "rating": "fear",
-      "timestamp": "2026-07-17T08:59:46+00:00",
+      "timestamp": "2026-07-17T11:20:01+00:00",
       "previous_close": 41.6857142857143,
       "previous_1_week": 46.82857142857143,
       "previous_1_month": 32.94285714285714,
       "previous_1_year": 74.17142857142858
     },
     "fear_and_greed_historical": {
-      "timestamp": 1784278786000.0,
+      "timestamp": 1784287201000.0,
       "score": 42.5714285714286,
       "rating": "fear",
       "data": [
@@ -1269,7 +1269,7 @@
           "rating": "fear"
         },
         {
-          "x": 1784278786000.0,
+          "x": 1784287201000.0,
           "y": 42.5714285714286,
           "rating": "fear"
         }
@@ -7561,7 +7561,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1784278786000.0,
+      "timestamp": 1784287201000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8812,18 +8812,18 @@
         },
         {
           "x": 1784246400000.0,
-          "y": 18.44,
+          "y": 18.19,
           "rating": "extreme fear"
         },
         {
-          "x": 1784278786000.0,
-          "y": 18.44,
+          "x": 1784287201000.0,
+          "y": 18.19,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1784278786000.0,
+      "timestamp": 1784287201000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10074,12 +10074,12 @@
         },
         {
           "x": 1784246400000.0,
-          "y": 17.3664,
+          "y": 17.3614,
           "rating": "extreme fear"
         },
         {
-          "x": 1784278786000.0,
-          "y": 17.3664,
+          "x": 1784287201000.0,
+          "y": 17.3614,
           "rating": "extreme fear"
         }
       ]
