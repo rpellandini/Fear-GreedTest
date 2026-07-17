@@ -1,20 +1,20 @@
 {
   "score": 37.0571428571429,
   "rating": "fear",
-  "timestamp_utc": "2026-07-17T22:05:44.893229+00:00",
+  "timestamp_utc": "2026-07-17T23:07:04.907291+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 37.0571428571429,
       "rating": "fear",
-      "timestamp": "2026-07-17T21:45:55+00:00",
+      "timestamp": "2026-07-17T22:50:57+00:00",
       "previous_close": 41.6857142857143,
       "previous_1_week": 46.82857142857143,
       "previous_1_month": 32.94285714285714,
       "previous_1_year": 74.17142857142858
     },
     "fear_and_greed_historical": {
-      "timestamp": 1784324755000.0,
+      "timestamp": 1784328657000.0,
       "score": 37.0571428571429,
       "rating": "fear",
       "data": [
@@ -1269,7 +1269,7 @@
           "rating": "fear"
         },
         {
-          "x": 1784324755000.0,
+          "x": 1784328657000.0,
           "y": 37.0571428571429,
           "rating": "fear"
         }
@@ -3800,7 +3800,7 @@
       ]
     },
     "stock_price_strength": {
-      "timestamp": 1784324755000.0,
+      "timestamp": 1784328657000.0,
       "score": 39.2,
       "rating": "fear",
       "data": [
@@ -5050,14 +5050,14 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1784324755000.0,
+          "x": 1784328657000.0,
           "y": 2.0303882439760503,
           "rating": "extreme fear"
         }
       ]
     },
     "stock_price_breadth": {
-      "timestamp": 1784324747000.0,
+      "timestamp": 1784328657000.0,
       "score": 21.4,
       "rating": "extreme fear",
       "data": [
@@ -6307,7 +6307,7 @@
           "rating": "extreme greed"
         },
         {
-          "x": 1784324747000.0,
+          "x": 1784328657000.0,
           "y": 900.151551359708,
           "rating": "extreme greed"
         }
@@ -10095,7 +10095,7 @@
       ]
     },
     "junk_bond_demand": {
-      "timestamp": 1784319000000.0,
+      "timestamp": 1784327400000.0,
       "score": 32.6,
       "rating": "fear",
       "data": [
@@ -11345,7 +11345,7 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1784319000000.0,
+          "x": 1784327400000.0,
           "y": 1.31342541443751,
           "rating": "extreme fear"
         }
