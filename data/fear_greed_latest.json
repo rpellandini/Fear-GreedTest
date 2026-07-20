@@ -1,20 +1,20 @@
 {
   "score": 37.0571428571429,
   "rating": "fear",
-  "timestamp_utc": "2026-07-20T11:12:23.396071+00:00",
+  "timestamp_utc": "2026-07-20T13:17:18.963326+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 37.0571428571429,
       "rating": "fear",
-      "timestamp": "2026-07-20T10:54:46+00:00",
+      "timestamp": "2026-07-20T13:00:01+00:00",
       "previous_close": 37.0571428571429,
       "previous_1_week": 40.857142857142854,
       "previous_1_month": 37.34285714285715,
       "previous_1_year": 73.94285714285715
     },
     "fear_and_greed_historical": {
-      "timestamp": 1784544886000.0,
+      "timestamp": 1784552401000.0,
       "score": 37.0571428571429,
       "rating": "fear",
       "data": [
@@ -1264,7 +1264,7 @@
           "rating": "fear"
         },
         {
-          "x": 1784544886000.0,
+          "x": 1784552401000.0,
           "y": 37.0571428571429,
           "rating": "fear"
         }
@@ -7531,7 +7531,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1784544886000.0,
+      "timestamp": 1784552401000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8777,18 +8777,18 @@
         },
         {
           "x": 1784505600000.0,
-          "y": 18.29,
+          "y": 18.14,
           "rating": "extreme fear"
         },
         {
-          "x": 1784544886000.0,
-          "y": 18.29,
+          "x": 1784552401000.0,
+          "y": 18.14,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1784544886000.0,
+      "timestamp": 1784552401000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10034,12 +10034,12 @@
         },
         {
           "x": 1784505600000.0,
-          "y": 17.3912,
+          "y": 17.3882,
           "rating": "extreme fear"
         },
         {
-          "x": 1784544886000.0,
-          "y": 17.3912,
+          "x": 1784552401000.0,
+          "y": 17.3882,
           "rating": "extreme fear"
         }
       ]
