@@ -1,20 +1,20 @@
 {
   "score": 43.2285714285714,
   "rating": "fear",
-  "timestamp_utc": "2026-07-23T09:35:14.235870+00:00",
+  "timestamp_utc": "2026-07-23T12:01:59.239287+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 43.2285714285714,
       "rating": "fear",
-      "timestamp": "2026-07-23T09:18:01+00:00",
+      "timestamp": "2026-07-23T11:43:16+00:00",
       "previous_close": 42.9714285714286,
       "previous_1_week": 41.2,
       "previous_1_month": 28.457142857142863,
       "previous_1_year": 76.3714285714286
     },
     "fear_and_greed_historical": {
-      "timestamp": 1784798281000.0,
+      "timestamp": 1784806996000.0,
       "score": 43.2285714285714,
       "rating": "fear",
       "data": [
@@ -1269,7 +1269,7 @@
           "rating": "fear"
         },
         {
-          "x": 1784798281000.0,
+          "x": 1784806996000.0,
           "y": 43.2285714285714,
           "rating": "fear"
         }
@@ -7561,7 +7561,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1784798281000.0,
+      "timestamp": 1784806996000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8812,18 +8812,18 @@
         },
         {
           "x": 1784764800000.0,
-          "y": 17.55,
+          "y": 18.21,
           "rating": "extreme fear"
         },
         {
-          "x": 1784798281000.0,
-          "y": 17.55,
+          "x": 1784806996000.0,
+          "y": 18.21,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1784798281000.0,
+      "timestamp": 1784806996000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10074,12 +10074,12 @@
         },
         {
           "x": 1784764800000.0,
-          "y": 17.39,
+          "y": 17.4032,
           "rating": "extreme fear"
         },
         {
-          "x": 1784798281000.0,
-          "y": 17.39,
+          "x": 1784806996000.0,
+          "y": 17.4032,
           "rating": "extreme fear"
         }
       ]
