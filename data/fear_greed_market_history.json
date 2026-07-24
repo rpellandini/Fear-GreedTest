@@ -1,11 +1,5 @@
 [
   {
-    "date_utc": "2025-07-23",
-    "timestamp_utc": "2025-07-23T00:00:00+00:00",
-    "score": 76.371429,
-    "rating": "extreme greed"
-  },
-  {
     "date_utc": "2025-07-24",
     "timestamp_utc": "2025-07-24T00:00:00+00:00",
     "score": 75.257143,
@@ -1495,7 +1489,7 @@
   },
   {
     "date_utc": "2026-07-23",
-    "timestamp_utc": "2026-07-23T22:54:09+00:00",
+    "timestamp_utc": "2026-07-23T23:54:25+00:00",
     "score": 39.6,
     "rating": "fear"
   }
