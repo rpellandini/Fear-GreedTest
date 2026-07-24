@@ -1490,13 +1490,13 @@
   {
     "date_utc": "2026-07-23",
     "timestamp_utc": "2026-07-23T00:00:00+00:00",
-    "score": 39.685714,
+    "score": 38.8,
     "rating": "fear"
   },
   {
     "date_utc": "2026-07-24",
-    "timestamp_utc": "2026-07-24T00:00:00+00:00",
-    "score": 39.685714,
+    "timestamp_utc": "2026-07-24T09:15:16+00:00",
+    "score": 38.8,
     "rating": "fear"
   }
 ]
