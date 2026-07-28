@@ -1,20 +1,20 @@
 {
   "score": 40.7142857142857,
   "rating": "fear",
-  "timestamp_utc": "2026-07-28T09:46:37.733077+00:00",
+  "timestamp_utc": "2026-07-28T12:12:06.632053+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 40.7142857142857,
       "rating": "fear",
-      "timestamp": "2026-07-28T09:26:31+00:00",
+      "timestamp": "2026-07-28T11:51:46+00:00",
       "previous_close": 39.9428571428571,
       "previous_1_week": 43.3714285714286,
       "previous_1_month": 24.657142857142855,
       "previous_1_year": 73.8
     },
     "fear_and_greed_historical": {
-      "timestamp": 1785230791000.0,
+      "timestamp": 1785239506000.0,
       "score": 40.7142857142857,
       "rating": "fear",
       "data": [
@@ -1269,7 +1269,7 @@
           "rating": "fear"
         },
         {
-          "x": 1785230791000.0,
+          "x": 1785239506000.0,
           "y": 40.7142857142857,
           "rating": "fear"
         }
@@ -7561,7 +7561,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1785230791000.0,
+      "timestamp": 1785239506000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8812,18 +8812,18 @@
         },
         {
           "x": 1785196800000.0,
-          "y": 18.81,
+          "y": 18.91,
           "rating": "extreme fear"
         },
         {
-          "x": 1785230791000.0,
-          "y": 18.81,
+          "x": 1785239506000.0,
+          "y": 18.91,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1785230791000.0,
+      "timestamp": 1785239506000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10074,12 +10074,12 @@
         },
         {
           "x": 1785196800000.0,
-          "y": 17.4494,
+          "y": 17.4514,
           "rating": "extreme fear"
         },
         {
-          "x": 1785230791000.0,
-          "y": 17.4494,
+          "x": 1785239506000.0,
+          "y": 17.4514,
           "rating": "extreme fear"
         }
       ]
