@@ -359,15 +359,15 @@
   {
     "date_utc": "2026-07-31",
     "timestamp_utc": "2026-07-31T00:00:00+00:00",
-    "score": 42.457143,
-    "rating": "fear",
+    "score": 45.085714,
+    "rating": "neutral",
     "iso_week": "2026-W31"
   },
   {
     "date_utc": "2026-08-03",
-    "timestamp_utc": "2026-08-03T07:26:16+00:00",
-    "score": 42.457143,
-    "rating": "fear",
+    "timestamp_utc": "2026-08-03T11:26:46+00:00",
+    "score": 45.085714,
+    "rating": "neutral",
     "iso_week": "2026-W32"
   }
 ]
