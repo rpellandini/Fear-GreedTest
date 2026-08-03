@@ -1,20 +1,20 @@
 {
   "score": 42.4571428571429,
   "rating": "fear",
-  "timestamp_utc": "2026-08-03T03:52:39.635349+00:00",
+  "timestamp_utc": "2026-08-03T07:44:36.872310+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 42.4571428571429,
       "rating": "fear",
-      "timestamp": "2026-07-31T23:59:52+00:00",
-      "previous_close": 38.9142857142857,
-      "previous_1_week": 41.3428571428571,
-      "previous_1_month": 29.971428571428568,
-      "previous_1_year": 63.714285714285715
+      "timestamp": "2026-08-03T07:26:16+00:00",
+      "previous_close": 42.4571428571429,
+      "previous_1_week": 37.6285714285714,
+      "previous_1_month": 32.542857142857144,
+      "previous_1_year": 49.800000000000004
     },
     "fear_and_greed_historical": {
-      "timestamp": 1785542392000.0,
+      "timestamp": 1785741976000.0,
       "score": 42.4571428571429,
       "rating": "fear",
       "data": [
@@ -1259,7 +1259,12 @@
           "rating": "fear"
         },
         {
-          "x": 1785542392000.0,
+          "x": 1785715200000.0,
+          "y": 42.4571428571429,
+          "rating": "fear"
+        },
+        {
+          "x": 1785741976000.0,
           "y": 42.4571428571429,
           "rating": "fear"
         }
@@ -7526,7 +7531,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1785528901000.0,
+      "timestamp": 1785741976000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8771,14 +8776,19 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1785528901000.0,
-          "y": 15.99,
+          "x": 1785715200000.0,
+          "y": 16.12,
+          "rating": "extreme fear"
+        },
+        {
+          "x": 1785741976000.0,
+          "y": 16.12,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1785528901000.0,
+      "timestamp": 1785741976000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10023,8 +10033,13 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1785528901000.0,
-          "y": 17.442,
+          "x": 1785715200000.0,
+          "y": 17.4032,
+          "rating": "extreme fear"
+        },
+        {
+          "x": 1785741976000.0,
+          "y": 17.4032,
           "rating": "extreme fear"
         }
       ]
