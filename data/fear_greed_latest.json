@@ -1,21 +1,21 @@
 {
-  "score": 45.9714285714286,
+  "score": 50.5142857142857,
   "rating": "neutral",
-  "timestamp_utc": "2026-08-04T06:39:24.638105+00:00",
+  "timestamp_utc": "2026-08-04T09:49:46.031096+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
-      "score": 45.9714285714286,
+      "score": 50.5142857142857,
       "rating": "neutral",
-      "timestamp": "2026-08-04T00:00:00+00:00",
+      "timestamp": "2026-08-04T09:33:46+00:00",
       "previous_close": 45.8285714285714,
       "previous_1_week": 37.8857142857143,
       "previous_1_month": 32.542857142857144,
       "previous_1_year": 56.885714285714286
     },
     "fear_and_greed_historical": {
-      "timestamp": 1785801600000.0,
-      "score": 45.9714285714286,
+      "timestamp": 1785836026000.0,
+      "score": 50.5142857142857,
       "rating": "neutral",
       "data": [
         {
@@ -1260,17 +1260,17 @@
         },
         {
           "x": 1785715200000.0,
-          "y": 45.9714285714286,
+          "y": 50.5142857142857,
           "rating": "neutral"
         },
         {
           "x": 1785801600000.0,
-          "y": 45.9714285714286,
+          "y": 50.5142857142857,
           "rating": "neutral"
         },
         {
-          "x": 1785801600000.0,
-          "y": 45.9714285714286,
+          "x": 1785836026000.0,
+          "y": 50.5142857142857,
           "rating": "neutral"
         }
       ]
@@ -3790,8 +3790,8 @@
       ]
     },
     "stock_price_strength": {
-      "timestamp": 1785801593000.0,
-      "score": 29.2,
+      "timestamp": 1785805187000.0,
+      "score": 29,
       "rating": "fear",
       "data": [
         {
@@ -5040,15 +5040,15 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1785801593000.0,
-          "y": 1.03845913153342,
+          "x": 1785805187000.0,
+          "y": 0.9849226215573119,
           "rating": "extreme fear"
         }
       ]
     },
     "stock_price_breadth": {
-      "timestamp": 1785801593000.0,
-      "score": 26.4,
+      "timestamp": 1785805185000.0,
+      "score": 32.6,
       "rating": "fear",
       "data": [
         {
@@ -6297,8 +6297,8 @@
           "rating": "extreme greed"
         },
         {
-          "x": 1785801593000.0,
-          "y": 874.590657925463,
+          "x": 1785805185000.0,
+          "y": 909.404059176258,
           "rating": "extreme greed"
         }
       ]
@@ -7561,7 +7561,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1785788101000.0,
+      "timestamp": 1785836026000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8811,14 +8811,19 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1785788101000.0,
-          "y": 15.86,
+          "x": 1785801600000.0,
+          "y": 15.77,
+          "rating": "extreme fear"
+        },
+        {
+          "x": 1785836026000.0,
+          "y": 15.77,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1785788101000.0,
+      "timestamp": 1785836026000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10068,8 +10073,13 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1785788101000.0,
-          "y": 17.398,
+          "x": 1785801600000.0,
+          "y": 17.3646,
+          "rating": "extreme fear"
+        },
+        {
+          "x": 1785836026000.0,
+          "y": 17.3646,
           "rating": "extreme fear"
         }
       ]
