@@ -1,20 +1,20 @@
 {
   "score": 62.1428571428571,
   "rating": "greed",
-  "timestamp_utc": "2026-08-12T21:02:01.140796+00:00",
+  "timestamp_utc": "2026-08-12T22:01:37.542718+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 62.1428571428571,
       "rating": "greed",
-      "timestamp": "2026-08-12T20:46:09+00:00",
+      "timestamp": "2026-08-12T21:41:17+00:00",
       "previous_close": 60.8,
       "previous_1_week": 59.8285714285714,
       "previous_1_month": 46.82857142857143,
       "previous_1_year": 62.25714285714286
     },
     "fear_and_greed_historical": {
-      "timestamp": 1786567569000.0,
+      "timestamp": 1786570877000.0,
       "score": 62.1428571428571,
       "rating": "greed",
       "data": [
@@ -1269,7 +1269,7 @@
           "rating": "greed"
         },
         {
-          "x": 1786567569000.0,
+          "x": 1786570877000.0,
           "y": 62.1428571428571,
           "rating": "greed"
         }
@@ -3800,7 +3800,7 @@
       ]
     },
     "stock_price_strength": {
-      "timestamp": 1786567569000.0,
+      "timestamp": 1786570877000.0,
       "score": 30.4,
       "rating": "fear",
       "data": [
@@ -5050,14 +5050,14 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1786567569000.0,
+          "x": 1786570877000.0,
           "y": 0.968453960111629,
           "rating": "extreme fear"
         }
       ]
     },
     "stock_price_breadth": {
-      "timestamp": 1786567569000.0,
+      "timestamp": 1786570877000.0,
       "score": 50.6,
       "rating": "neutral",
       "data": [
@@ -6307,14 +6307,14 @@
           "rating": "extreme greed"
         },
         {
-          "x": 1786567569000.0,
+          "x": 1786570877000.0,
           "y": 1005.01495176163,
           "rating": "extreme greed"
         }
       ]
     },
     "put_call_options": {
-      "timestamp": 1786566796000.0,
+      "timestamp": 1786569701000.0,
       "score": 64,
       "rating": "greed",
       "data": [
@@ -7564,8 +7564,8 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1786566796000.0,
-          "y": 0.708114491042786,
+          "x": 1786569701000.0,
+          "y": 0.708114312638405,
           "rating": "extreme fear"
         }
       ]
