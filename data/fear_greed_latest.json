@@ -1,21 +1,21 @@
 {
-  "score": 62.1428571428571,
+  "score": 62.1142857142857,
   "rating": "greed",
-  "timestamp_utc": "2026-08-13T02:45:32.926077+00:00",
+  "timestamp_utc": "2026-08-13T05:02:27.301960+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
-      "score": 62.1428571428571,
+      "score": 62.1142857142857,
       "rating": "greed",
-      "timestamp": "2026-08-12T23:59:58+00:00",
-      "previous_close": 60.8,
-      "previous_1_week": 59.8285714285714,
-      "previous_1_month": 46.82857142857143,
-      "previous_1_year": 62.25714285714286
+      "timestamp": "2026-08-13T00:00:00+00:00",
+      "previous_close": 62.1428571428571,
+      "previous_1_week": 58.8571428571429,
+      "previous_1_month": 40.857142857142854,
+      "previous_1_year": 63.34285714285714
     },
     "fear_and_greed_historical": {
-      "timestamp": 1786579198000.0,
-      "score": 62.1428571428571,
+      "timestamp": 1786579200000.0,
+      "score": 62.1142857142857,
       "rating": "greed",
       "data": [
         {
@@ -1260,12 +1260,17 @@
         },
         {
           "x": 1786492800000.0,
-          "y": 62.1428571428571,
+          "y": 62.1142857142857,
           "rating": "greed"
         },
         {
-          "x": 1786579198000.0,
-          "y": 62.1428571428571,
+          "x": 1786579200000.0,
+          "y": 62.1142857142857,
+          "rating": "greed"
+        },
+        {
+          "x": 1786579200000.0,
+          "y": 62.1142857142857,
           "rating": "greed"
         }
       ]
@@ -10070,8 +10075,8 @@
       ]
     },
     "junk_bond_demand": {
-      "timestamp": 1786573800000.0,
-      "score": 98.2,
+      "timestamp": 1786579200000.0,
+      "score": 98,
       "rating": "extreme greed",
       "data": [
         {
@@ -11320,7 +11325,7 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1786573800000.0,
+          "x": 1786579200000.0,
           "y": 1.2160131142286998,
           "rating": "extreme fear"
         }
