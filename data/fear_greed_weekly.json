@@ -359,14 +359,14 @@
   {
     "date_utc": "2026-08-14",
     "timestamp_utc": "2026-08-14T00:00:00+00:00",
-    "score": 64.971429,
+    "score": 63.971429,
     "rating": "greed",
     "iso_week": "2026-W33"
   },
   {
     "date_utc": "2026-08-17",
-    "timestamp_utc": "2026-08-17T12:44:01+00:00",
-    "score": 64.971429,
+    "timestamp_utc": "2026-08-17T13:45:32+00:00",
+    "score": 63.714286,
     "rating": "greed",
     "iso_week": "2026-W34"
   }
