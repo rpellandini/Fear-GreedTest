@@ -1,21 +1,21 @@
 {
-  "score": 59.9428571428571,
+  "score": 59.8,
   "rating": "greed",
-  "timestamp_utc": "2026-08-18T05:43:40.714005+00:00",
+  "timestamp_utc": "2026-08-18T07:02:38.217419+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
-      "score": 59.9428571428571,
+      "score": 59.8,
       "rating": "greed",
-      "timestamp": "2026-08-18T00:00:00+00:00",
+      "timestamp": "2026-08-18T00:59:58+00:00",
       "previous_close": 59.9714285714286,
       "previous_1_week": 61.4285714285714,
       "previous_1_month": 37.2285714285714,
       "previous_1_year": 64.2
     },
     "fear_and_greed_historical": {
-      "timestamp": 1787011200000.0,
-      "score": 59.9428571428571,
+      "timestamp": 1787014798000.0,
+      "score": 59.8,
       "rating": "greed",
       "data": [
         {
@@ -1260,17 +1260,17 @@
         },
         {
           "x": 1786924800000.0,
-          "y": 59.9428571428571,
+          "y": 59.4857142857143,
           "rating": "greed"
         },
         {
           "x": 1787011200000.0,
-          "y": 59.9428571428571,
+          "y": 59.4857142857143,
           "rating": "greed"
         },
         {
-          "x": 1787011200000.0,
-          "y": 59.9428571428571,
+          "x": 1787014798000.0,
+          "y": 59.8,
           "rating": "greed"
         }
       ]
@@ -3790,8 +3790,8 @@
       ]
     },
     "stock_price_strength": {
-      "timestamp": 1787011193000.0,
-      "score": 27.4,
+      "timestamp": 1787014798000.0,
+      "score": 26.4,
       "rating": "fear",
       "data": [
         {
@@ -5040,15 +5040,15 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1787011193000.0,
-          "y": 0.61348543357501,
+          "x": 1787014798000.0,
+          "y": 0.484239900894859,
           "rating": "extreme fear"
         }
       ]
     },
     "stock_price_breadth": {
-      "timestamp": 1787011193000.0,
-      "score": 58.2,
+      "timestamp": 1787014798000.0,
+      "score": 56,
       "rating": "greed",
       "data": [
         {
@@ -6297,8 +6297,8 @@
           "rating": "extreme greed"
         },
         {
-          "x": 1787011193000.0,
-          "y": 1060.44014502076,
+          "x": 1787014798000.0,
+          "y": 1040.93564020002,
           "rating": "extreme greed"
         }
       ]
