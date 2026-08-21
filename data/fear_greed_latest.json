@@ -1,20 +1,20 @@
 {
   "score": 55.1714285714286,
   "rating": "greed",
-  "timestamp_utc": "2026-08-21T22:39:46.730507+00:00",
+  "timestamp_utc": "2026-08-21T23:36:44.465570+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 55.1714285714286,
       "rating": "greed",
-      "timestamp": "2026-08-21T22:22:30+00:00",
+      "timestamp": "2026-08-21T23:17:32+00:00",
       "previous_close": 52.4857142857143,
       "previous_1_week": 63.9714285714286,
       "previous_1_month": 43.3714285714286,
       "previous_1_year": 52.60000000000001
     },
     "fear_and_greed_historical": {
-      "timestamp": 1787350950000.0,
+      "timestamp": 1787354252000.0,
       "score": 55.1714285714286,
       "rating": "greed",
       "data": [
@@ -1269,7 +1269,7 @@
           "rating": "greed"
         },
         {
-          "x": 1787350950000.0,
+          "x": 1787354252000.0,
           "y": 55.1714285714286,
           "rating": "greed"
         }
@@ -3800,7 +3800,7 @@
       ]
     },
     "stock_price_strength": {
-      "timestamp": 1787350950000.0,
+      "timestamp": 1787354252000.0,
       "score": 29.4,
       "rating": "fear",
       "data": [
@@ -5050,14 +5050,14 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1787350950000.0,
+          "x": 1787354252000.0,
           "y": 0.646433162949826,
           "rating": "extreme fear"
         }
       ]
     },
     "stock_price_breadth": {
-      "timestamp": 1787350950000.0,
+      "timestamp": 1787354252000.0,
       "score": 57.6,
       "rating": "greed",
       "data": [
@@ -6307,7 +6307,7 @@
           "rating": "extreme greed"
         },
         {
-          "x": 1787350950000.0,
+          "x": 1787354252000.0,
           "y": 1043.03745969415,
           "rating": "extreme greed"
         }
@@ -10095,7 +10095,7 @@
       ]
     },
     "junk_bond_demand": {
-      "timestamp": 1787343000000.0,
+      "timestamp": 1787351400000.0,
       "score": 95.8,
       "rating": "extreme greed",
       "data": [
@@ -11345,7 +11345,7 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1787343000000.0,
+          "x": 1787351400000.0,
           "y": 1.20719315801143,
           "rating": "extreme fear"
         }
