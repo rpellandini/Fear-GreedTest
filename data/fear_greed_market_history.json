@@ -1,17 +1,5 @@
 [
   {
-    "date_utc": "2025-08-21",
-    "timestamp_utc": "2025-08-21T00:00:00+00:00",
-    "score": 52.6,
-    "rating": "neutral"
-  },
-  {
-    "date_utc": "2025-08-22",
-    "timestamp_utc": "2025-08-22T00:00:00+00:00",
-    "score": 55.542857,
-    "rating": "greed"
-  },
-  {
     "date_utc": "2025-08-25",
     "timestamp_utc": "2025-08-25T00:00:00+00:00",
     "score": 53.942857,
@@ -1495,7 +1483,7 @@
   },
   {
     "date_utc": "2026-08-21",
-    "timestamp_utc": "2026-08-21T23:17:32+00:00",
+    "timestamp_utc": "2026-08-21T23:59:58+00:00",
     "score": 55.171429,
     "rating": "greed"
   }
