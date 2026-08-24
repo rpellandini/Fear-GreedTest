@@ -1,20 +1,20 @@
 {
   "score": 55.1714285714286,
   "rating": "greed",
-  "timestamp_utc": "2026-08-24T11:42:56.816484+00:00",
+  "timestamp_utc": "2026-08-24T13:11:32.395126+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 55.1714285714286,
       "rating": "greed",
-      "timestamp": "2026-08-24T11:23:16+00:00",
+      "timestamp": "2026-08-24T12:53:16+00:00",
       "previous_close": 55.1714285714286,
       "previous_1_week": 58.4,
       "previous_1_month": 41.3428571428571,
       "previous_1_year": 55.54285714285715
     },
     "fear_and_greed_historical": {
-      "timestamp": 1787570596000.0,
+      "timestamp": 1787575996000.0,
       "score": 55.1714285714286,
       "rating": "greed",
       "data": [
@@ -1264,7 +1264,7 @@
           "rating": "greed"
         },
         {
-          "x": 1787570596000.0,
+          "x": 1787575996000.0,
           "y": 55.1714285714286,
           "rating": "greed"
         }
@@ -7531,7 +7531,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1787570596000.0,
+      "timestamp": 1787575996000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8777,18 +8777,18 @@
         },
         {
           "x": 1787529600000.0,
-          "y": 16.04,
+          "y": 15.91,
           "rating": "extreme fear"
         },
         {
-          "x": 1787570596000.0,
-          "y": 16.04,
+          "x": 1787575996000.0,
+          "y": 15.91,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1787570596000.0,
+      "timestamp": 1787575996000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10034,12 +10034,12 @@
         },
         {
           "x": 1787529600000.0,
-          "y": 16.7694,
+          "y": 16.7668,
           "rating": "extreme fear"
         },
         {
-          "x": 1787570596000.0,
-          "y": 16.7694,
+          "x": 1787575996000.0,
+          "y": 16.7668,
           "rating": "extreme fear"
         }
       ]
