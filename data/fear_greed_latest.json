@@ -1,21 +1,21 @@
 {
-  "score": 58.6,
+  "score": 59.0857142857143,
   "rating": "greed",
-  "timestamp_utc": "2026-08-26T05:49:12.773755+00:00",
+  "timestamp_utc": "2026-08-26T07:07:17.465644+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
-      "score": 58.6,
+      "score": 59.0857142857143,
       "rating": "greed",
-      "timestamp": "2026-08-26T00:00:00+00:00",
+      "timestamp": "2026-08-26T00:59:46+00:00",
       "previous_close": 58.8,
       "previous_1_week": 57.2,
       "previous_1_month": 41.3428571428571,
       "previous_1_year": 55.4
     },
     "fear_and_greed_historical": {
-      "timestamp": 1787702400000.0,
-      "score": 58.6,
+      "timestamp": 1787705986000.0,
+      "score": 59.0857142857143,
       "rating": "greed",
       "data": [
         {
@@ -1260,7 +1260,7 @@
         },
         {
           "x": 1787616000000.0,
-          "y": 58.6,
+          "y": 59.0857142857143,
           "rating": "greed"
         },
         {
@@ -1269,8 +1269,8 @@
           "rating": "greed"
         },
         {
-          "x": 1787702400000.0,
-          "y": 58.6,
+          "x": 1787705986000.0,
+          "y": 59.0857142857143,
           "rating": "greed"
         }
       ]
@@ -3790,7 +3790,7 @@
       ]
     },
     "stock_price_strength": {
-      "timestamp": 1787702393000.0,
+      "timestamp": 1787705986000.0,
       "score": 27,
       "rating": "fear",
       "data": [
@@ -5040,15 +5040,15 @@
           "rating": "extreme fear"
         },
         {
-          "x": 1787702393000.0,
-          "y": 0.437436290215891,
+          "x": 1787705986000.0,
+          "y": 0.40734392495446203,
           "rating": "extreme fear"
         }
       ]
     },
     "stock_price_breadth": {
-      "timestamp": 1787702393000.0,
-      "score": 60.2,
+      "timestamp": 1787705986000.0,
+      "score": 63.6,
       "rating": "greed",
       "data": [
         {
@@ -6297,8 +6297,8 @@
           "rating": "extreme greed"
         },
         {
-          "x": 1787702393000.0,
-          "y": 1055.80162191191,
+          "x": 1787705986000.0,
+          "y": 1069.13919467748,
           "rating": "extreme greed"
         }
       ]
