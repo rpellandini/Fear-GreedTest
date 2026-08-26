@@ -1,20 +1,20 @@
 {
   "score": 59.0857142857143,
   "rating": "greed",
-  "timestamp_utc": "2026-08-26T07:57:46.115362+00:00",
+  "timestamp_utc": "2026-08-26T09:00:56.786920+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 59.0857142857143,
       "rating": "greed",
-      "timestamp": "2026-08-26T07:37:16+00:00",
+      "timestamp": "2026-08-26T08:42:16+00:00",
       "previous_close": 58.8,
       "previous_1_week": 57.2,
       "previous_1_month": 41.3428571428571,
       "previous_1_year": 55.4
     },
     "fear_and_greed_historical": {
-      "timestamp": 1787729836000.0,
+      "timestamp": 1787733736000.0,
       "score": 59.0857142857143,
       "rating": "greed",
       "data": [
@@ -1269,7 +1269,7 @@
           "rating": "greed"
         },
         {
-          "x": 1787729836000.0,
+          "x": 1787733736000.0,
           "y": 59.0857142857143,
           "rating": "greed"
         }
@@ -7561,7 +7561,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1787729836000.0,
+      "timestamp": 1787733736000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8812,18 +8812,18 @@
         },
         {
           "x": 1787702400000.0,
-          "y": 15.69,
+          "y": 15.7,
           "rating": "extreme fear"
         },
         {
-          "x": 1787729836000.0,
-          "y": 15.69,
+          "x": 1787733736000.0,
+          "y": 15.7,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1787729836000.0,
+      "timestamp": 1787733736000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10074,12 +10074,12 @@
         },
         {
           "x": 1787702400000.0,
-          "y": 16.646,
+          "y": 16.6462,
           "rating": "extreme fear"
         },
         {
-          "x": 1787729836000.0,
-          "y": 16.646,
+          "x": 1787733736000.0,
+          "y": 16.6462,
           "rating": "extreme fear"
         }
       ]
