@@ -1468,5 +1468,10 @@
     "timestamp_utc": "2026-09-01T05:05:06.589493+00:00",
     "score": 49.5714285714286,
     "rating": "neutral"
+  },
+  {
+    "timestamp_utc": "2026-09-01T10:04:28.848255+00:00",
+    "score": 47.4,
+    "rating": "neutral"
   }
 ]
