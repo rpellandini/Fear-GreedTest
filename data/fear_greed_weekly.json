@@ -364,9 +364,9 @@
     "iso_week": "2026-W35"
   },
   {
-    "date_utc": "2026-08-31",
-    "timestamp_utc": "2026-08-31T23:30:11+00:00",
-    "score": 49.714286,
+    "date_utc": "2026-09-01",
+    "timestamp_utc": "2026-09-01T00:00:00+00:00",
+    "score": 49.571429,
     "rating": "neutral",
     "iso_week": "2026-W36"
   }
