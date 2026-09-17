@@ -1,20 +1,20 @@
 {
   "score": 26.1142857142857,
   "rating": "fear",
-  "timestamp_utc": "2026-09-17T07:37:07.875921+00:00",
+  "timestamp_utc": "2026-09-17T13:25:37.870106+00:00",
   "source": "CNN",
   "raw": {
     "fear_and_greed": {
       "score": 26.1142857142857,
       "rating": "fear",
-      "timestamp": "2026-09-17T07:21:01+00:00",
+      "timestamp": "2026-09-17T13:06:31+00:00",
       "previous_close": 26.4857142857143,
       "previous_1_week": 32.2,
       "previous_1_month": 59.142857142857146,
       "previous_1_year": 63.77142857142858
     },
     "fear_and_greed_historical": {
-      "timestamp": 1789629661000.0,
+      "timestamp": 1789650391000.0,
       "score": 26.1142857142857,
       "rating": "fear",
       "data": [
@@ -1274,7 +1274,7 @@
           "rating": "fear"
         },
         {
-          "x": 1789629661000.0,
+          "x": 1789650391000.0,
           "y": 26.1142857142857,
           "rating": "fear"
         }
@@ -7591,7 +7591,7 @@
       ]
     },
     "market_volatility_vix": {
-      "timestamp": 1789629661000.0,
+      "timestamp": 1789650391000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -8847,18 +8847,18 @@
         },
         {
           "x": 1789603200000.0,
-          "y": 16.03,
+          "y": 15.47,
           "rating": "extreme fear"
         },
         {
-          "x": 1789629661000.0,
-          "y": 16.03,
+          "x": 1789650391000.0,
+          "y": 15.47,
           "rating": "extreme fear"
         }
       ]
     },
     "market_volatility_vix_50": {
-      "timestamp": 1789629661000.0,
+      "timestamp": 1789650391000.0,
       "score": 50,
       "rating": "neutral",
       "data": [
@@ -10114,12 +10114,12 @@
         },
         {
           "x": 1789603200000.0,
-          "y": 16.201,
+          "y": 16.1898,
           "rating": "extreme fear"
         },
         {
-          "x": 1789629661000.0,
-          "y": 16.201,
+          "x": 1789650391000.0,
+          "y": 16.1898,
           "rating": "extreme fear"
         }
       ]
