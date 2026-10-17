@@ -1,11 +1,5 @@
 [
   {
-    "date_utc": "2025-10-16",
-    "timestamp_utc": "2025-10-16T00:00:00+00:00",
-    "score": 23.114286,
-    "rating": "extreme fear"
-  },
-  {
     "date_utc": "2025-10-17",
     "timestamp_utc": "2025-10-17T00:00:00+00:00",
     "score": 22.328571,
@@ -1501,7 +1495,7 @@
   },
   {
     "date_utc": "2026-10-16",
-    "timestamp_utc": "2026-10-16T22:32:08+00:00",
+    "timestamp_utc": "2026-10-16T23:59:49+00:00",
     "score": 17.938322,
     "rating": "extreme fear"
   }
