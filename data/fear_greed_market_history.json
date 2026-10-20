@@ -1495,8 +1495,14 @@
   },
   {
     "date_utc": "2026-10-19",
-    "timestamp_utc": "2026-10-19T23:59:54+00:00",
-    "score": 23.107143,
+    "timestamp_utc": "2026-10-19T00:00:00+00:00",
+    "score": 23.164286,
+    "rating": "extreme fear"
+  },
+  {
+    "date_utc": "2026-10-20",
+    "timestamp_utc": "2026-10-20T00:59:56+00:00",
+    "score": 23.164286,
     "rating": "extreme fear"
   }
 ]
