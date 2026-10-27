@@ -1304,205 +1304,205 @@
   {
     "date_utc": "2026-09-10",
     "timestamp_utc": "2026-09-10T00:00:00+00:00",
-    "score": 32.2,
+    "score": 31.914286,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-11",
     "timestamp_utc": "2026-09-11T00:00:00+00:00",
-    "score": 32.685714,
+    "score": 33.114286,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-14",
     "timestamp_utc": "2026-09-14T00:00:00+00:00",
-    "score": 30.971429,
+    "score": 32.085714,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-15",
     "timestamp_utc": "2026-09-15T00:00:00+00:00",
-    "score": 27.971429,
+    "score": 29.257143,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-16",
     "timestamp_utc": "2026-09-16T00:00:00+00:00",
-    "score": 27.314286,
+    "score": 27.028571,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-17",
     "timestamp_utc": "2026-09-17T00:00:00+00:00",
-    "score": 28.285714,
+    "score": 29.457143,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-18",
     "timestamp_utc": "2026-09-18T00:00:00+00:00",
-    "score": 30.428571,
+    "score": 28.485714,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-21",
     "timestamp_utc": "2026-09-21T00:00:00+00:00",
-    "score": 34.171429,
+    "score": 33.942857,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-22",
     "timestamp_utc": "2026-09-22T00:00:00+00:00",
-    "score": 35.028571,
+    "score": 35.228571,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-23",
     "timestamp_utc": "2026-09-23T00:00:00+00:00",
-    "score": 32.542857,
+    "score": 33.657143,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-24",
     "timestamp_utc": "2026-09-24T00:00:00+00:00",
-    "score": 35.742857,
+    "score": 34.514286,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-25",
     "timestamp_utc": "2026-09-25T00:00:00+00:00",
-    "score": 36.942857,
+    "score": 36.914286,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-28",
     "timestamp_utc": "2026-09-28T00:00:00+00:00",
-    "score": 34.4,
+    "score": 32.4,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-29",
     "timestamp_utc": "2026-09-29T00:00:00+00:00",
-    "score": 28.857143,
+    "score": 31.057143,
     "rating": "fear"
   },
   {
     "date_utc": "2026-09-30",
     "timestamp_utc": "2026-09-30T00:00:00+00:00",
-    "score": 30.257143,
+    "score": 30.314286,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-01",
     "timestamp_utc": "2026-10-01T00:00:00+00:00",
-    "score": 28.971429,
+    "score": 29.228571,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-02",
     "timestamp_utc": "2026-10-02T00:00:00+00:00",
-    "score": 39.971429,
+    "score": 38.2,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-05",
     "timestamp_utc": "2026-10-05T00:00:00+00:00",
-    "score": 43.714286,
+    "score": 43.085714,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-06",
     "timestamp_utc": "2026-10-06T00:00:00+00:00",
-    "score": 46.8,
+    "score": 47.028571,
     "rating": "neutral"
   },
   {
     "date_utc": "2026-10-07",
     "timestamp_utc": "2026-10-07T00:00:00+00:00",
-    "score": 42.142857,
+    "score": 44.714286,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-08",
     "timestamp_utc": "2026-10-08T00:00:00+00:00",
-    "score": 39.8,
+    "score": 39.171429,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-09",
     "timestamp_utc": "2026-10-09T00:00:00+00:00",
-    "score": 46.485714,
-    "rating": "neutral"
+    "score": 43.514286,
+    "rating": "fear"
   },
   {
     "date_utc": "2026-10-12",
     "timestamp_utc": "2026-10-12T00:00:00+00:00",
-    "score": 46.342857,
+    "score": 45.228571,
     "rating": "neutral"
   },
   {
     "date_utc": "2026-10-13",
     "timestamp_utc": "2026-10-13T00:00:00+00:00",
-    "score": 44.114286,
-    "rating": "fear"
+    "score": 45.6,
+    "rating": "neutral"
   },
   {
     "date_utc": "2026-10-14",
     "timestamp_utc": "2026-10-14T00:00:00+00:00",
-    "score": 26.656689,
+    "score": 28.785714,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-15",
     "timestamp_utc": "2026-10-15T00:00:00+00:00",
-    "score": 30.342857,
+    "score": 32.0,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-16",
     "timestamp_utc": "2026-10-16T00:00:00+00:00",
-    "score": 22.073214,
+    "score": 18.214286,
     "rating": "extreme fear"
   },
   {
     "date_utc": "2026-10-19",
     "timestamp_utc": "2026-10-19T00:00:00+00:00",
-    "score": 20.804396,
+    "score": 19.514286,
     "rating": "extreme fear"
   },
   {
     "date_utc": "2026-10-20",
     "timestamp_utc": "2026-10-20T00:00:00+00:00",
-    "score": 29.571429,
+    "score": 28.742857,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-21",
     "timestamp_utc": "2026-10-21T00:00:00+00:00",
-    "score": 27.226374,
+    "score": 30.257143,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-22",
     "timestamp_utc": "2026-10-22T00:00:00+00:00",
-    "score": 19.439827,
+    "score": 19.985714,
     "rating": "extreme fear"
   },
   {
     "date_utc": "2026-10-23",
     "timestamp_utc": "2026-10-23T00:00:00+00:00",
-    "score": 22.98081,
+    "score": 16.685714,
     "rating": "extreme fear"
   },
   {
     "date_utc": "2026-10-26",
     "timestamp_utc": "2026-10-26T00:00:00+00:00",
-    "score": 29.285714,
+    "score": 29.828571,
     "rating": "fear"
   },
   {
     "date_utc": "2026-10-27",
-    "timestamp_utc": "2026-10-27T19:59:59+00:00",
-    "score": 32.914286,
+    "timestamp_utc": "2026-10-27T23:25:29+00:00",
+    "score": 33.6,
     "rating": "fear"
   }
 ]
