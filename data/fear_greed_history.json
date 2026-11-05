@@ -2323,5 +2323,10 @@
     "timestamp_utc": "2026-11-05T12:17:15.543144+00:00",
     "score": 34.8,
     "rating": "fear"
+  },
+  {
+    "timestamp_utc": "2026-11-05T20:38:33.493957+00:00",
+    "score": 20.3510204081633,
+    "rating": "extreme fear"
   }
 ]
