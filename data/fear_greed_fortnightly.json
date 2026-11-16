@@ -176,9 +176,16 @@
   },
   {
     "date_utc": "2026-11-13",
-    "timestamp_utc": "2026-11-13T23:59:56+00:00",
-    "score": 38.6,
+    "timestamp_utc": "2026-11-13T00:00:00+00:00",
+    "score": 37.371429,
     "rating": "fear",
     "fortnight": "2026-F23"
+  },
+  {
+    "date_utc": "2026-11-16",
+    "timestamp_utc": "2026-11-16T16:53:43+00:00",
+    "score": 35.457143,
+    "rating": "fear",
+    "fortnight": "2026-F24"
   }
 ]
