@@ -358,9 +358,16 @@
   },
   {
     "date_utc": "2026-11-20",
-    "timestamp_utc": "2026-11-20T23:59:52+00:00",
-    "score": 9.673684,
+    "timestamp_utc": "2026-11-20T00:00:00+00:00",
+    "score": 18.587384,
     "rating": "extreme fear",
     "iso_week": "2026-W47"
+  },
+  {
+    "date_utc": "2026-11-23",
+    "timestamp_utc": "2026-11-23T20:05:12+00:00",
+    "score": 16.530983,
+    "rating": "extreme fear",
+    "iso_week": "2026-W48"
   }
 ]
